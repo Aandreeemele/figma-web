@@ -1,0 +1,501 @@
+.estruc{
+    width: 1440px;
+    height: 10749.13px;
+    margin: auto;
+    border: 2px solid black;
+}
+.titulo{
+    width: 1438px;
+    height: 780px;
+    border: 1px solid black;
+    background-color: rgb(238, 232, 232);
+}
+.tl{
+    width: 1435px;
+    height: 160px;
+    background-color: white;
+
+   position: absolute;
+    top: 7rem;
+   
+}
+.as{
+    font-size: 1.3rem;
+    position: absolute;
+    top: 1rem;
+    left: 43rem;
+}
+.c1{
+    width: 11rem;
+    height: 2.4rem;
+    border-radius: 1rem;
+    border: 1px solid rgb(177, 176, 176);
+
+    position: absolute;
+    top: 0.7rem;
+    left: 70rem;
+
+    display: flex;
+    flex-direction: center;
+}
+.c2{
+    width: 10.8rem;
+    height: 1rem;
+    font-size: 1.2rem;
+    
+    position: absolute;
+    top: 0.7rem;
+    background-color: rgb(238, 236, 236);
+}
+.as1{
+    font-size: 1.2rem;
+    position: absolute;
+    left: 1.5rem;
+}
+.as3{
+    font-size: 3rem;
+    position: absolute;
+    top: 0.2rem;
+    left: 102rem;
+    
+}
+.medio{
+    width: 140rem;
+    height: 4rem;
+    border: 1px solid rgb(207, 205, 205);
+    position: absolute;
+    top: 3.5rem;
+    left: 1.5rem;
+}
+.titulo1{
+    font-size: 4.5rem;
+    position: absolute;
+    top: 18rem;
+    left: 15rem;
+}
+.tex{
+    font-size: 1.8rem;
+    position: absolute;
+    top: 25rem;
+    left: 15.5rem;
+}
+.boton{
+    width: 15rem;
+    height: 3rem;
+    border-radius: 1rem;
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+
+    position: absolute;
+    top: 35rem;
+    left: 15rem;
+
+}
+.x9{
+    font-size: 1.5rem;
+    color: white;
+
+    position: absolute;
+    top: 0.5rem;
+    left: 2.5rem;
+}
+.img4{
+    width: 50px;
+    height: 35px;
+    position: absolute;
+    top: 1rem;
+    left: 12rem;
+}
+.tl2{
+    color: black;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 1rem;
+    left: 105rem;
+}
+.tl1{
+    width: 1435px;
+    height: 90px;
+    background-color: white;
+
+    position: absolute;
+    top: 69rem;
+}
+.img5{
+    width: 150px;
+    height: 100px;
+    filter: grayscale(100%);
+    
+    position: absolute;
+    top: -0.5rem;
+    left: 22rem;
+}
+.x10{
+    font-size: 1.2rem;
+    position: absolute;
+    top: 4rem;
+    left: 60rem;
+}
+.x11{
+    font-size: 1.2rem;
+    position: absolute;
+    top: 3rem;
+    left: 105rem;
+}
+.img6{
+    width: 90px;
+    height: 15px;
+
+    position: absolute;
+    top: 4rem;
+    left: 72rem;
+}
+.img1{
+    width: 1.2rem;
+    height: 1.2rem;
+    position: absolute;
+    top: 1rem;
+    left: 103.5rem;
+}
+.tl3{
+    color: black;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 2rem;
+    left: 110rem;
+}
+.img2{
+    width: 1.2rem;
+    height: 1.2rem;
+    position: absolute;
+    top: 0.7rem;
+    left: 111.5rem;
+}
+.tl4{
+    color: black;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 2rem;
+    left: 115rem;
+}
+.img3{
+    width: 1.3rem;
+    height: 1.3rem;
+    position: absolute;
+    top: 0.7rem;
+    left: 116rem;
+}
+.final{
+    width: 140rem;
+    height: 6rem;
+    border: 1px solid rgb(207, 205, 205);
+    position: absolute;
+    top: 8rem;
+    left: 1.5rem;
+}
+.tl5{
+    font-size: 2rem;
+    position: absolute;
+    top: 1.5rem;
+    left: 18rem;
+}
+.x1{
+    font-size: 1rem;
+    position: absolute;
+    top: 2rem;
+    left: 37rem;
+}
+.x2{
+    font-size: 1rem;
+    position: absolute;
+    top: 2rem;
+    left: 44rem;
+}
+.x3{
+    font-size: 1rem;
+    position: absolute;
+    top: 2rem;
+    left: 51rem;
+}
+.x4{
+    font-size: 1rem;
+    position: absolute;
+    top: 2rem;
+    left: 57rem;
+}
+.x5{
+    font-size: 1rem;
+    position: absolute;
+    top: 2rem;
+    left: 63rem;
+}
+.x6{
+    font-size: 1rem;
+    position: absolute;
+    top: 2rem;
+    left: 69rem;
+}
+.cuadrx{
+    width: 20rem;
+    height: 2.5rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+
+    position: absolute;
+    top: 1.5rem;
+    left: 84rem;
+}
+.x7{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 0.4rem;
+    left: 4rem;
+}
+.cuadrxx{
+    width: 20rem;
+    height: 2.5rem;
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+    border-radius: 1rem;
+
+    position: absolute;
+    top: 1.5rem;
+    left: 107rem;
+}
+.x8{
+    color: white;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 0.3rem;
+    left: 5.5rem;
+}
+.cuamora{
+    width: 1438px;
+    height: 740px;
+    background-color: blueviolet;
+}
+.a1{
+    font-size: 2.5rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px;
+}
+.a2{
+    font-size: 1.5rem;
+    color: white;
+    position: relative;
+    left: 10rem;
+}
+.a3{
+    font-size: 1.5rem;
+    color: white;
+    position: relative;
+    top: -1.8rem;
+    left: 25rem;
+}
+.a4{
+    font-size: 1.5rem;
+    color: white;
+    position: relative;
+    top: -3.5rem;
+    left: 41rem;
+}
+.a5{
+    font-size: 1.5rem;
+    color: white;
+    position: relative;
+    top: -5.2rem;
+    left: 61rem;
+}
+.a6{
+    font-size: 1.5rem;
+    color: white;
+    position: relative;
+    top: -7rem;
+    left: 79.5rem;
+}
+.a7{
+    font-size: 1.5rem;
+    color: white;
+    position: relative;
+    top: -8.8rem;
+    left: 97rem;
+}
+.a8{
+    font-size: 1.5rem;
+    color: white;
+    position: relative;
+    top: -10.7rem;
+    left: 120rem;
+}
+.cuadrogris{
+    width: 90rem;
+    height: 37.5rem;
+    background-color: rgb(219, 215, 215);
+}
+.sa{
+    font-size: 2rem;
+    position: relative;
+    top: 5rem;
+    left: 53.5rem;
+}
+.te{
+    font-size: 1.5rem;
+    position: relative;
+    top: 8rem;
+    left: 53.5rem;
+}
+.imagen{
+    width: 470px;
+    height: 370px;
+    position: relative;
+    top: -10rem;
+}
+.botxn{
+    width: 102.5px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 1rem;
+    position: relative;
+    top: -26.5rem;
+    left: 14rem;
+}
+.wa{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+}
+
+.img7{
+    width: 440px;
+    height: 300px;
+    position: absolute;
+    top: 2.5rem;
+    left: 0.5rem;
+}
+.titulo2{
+    font-size: 2rem;
+    position: absolute;
+    top: 5rem;
+    left: 52rem;
+}
+.tex2{
+    font-size: 1rem;
+    position: absolute;
+    top: 9rem;
+    left: 52.5rem;
+}
+
+.x12{
+    font-size: 1rem;
+    position: absolute;
+    top: 0.8rem;
+    left: 1.5rem;
+}
+
+
+.cuablan{
+    width: 1438px;
+    height: 750px;
+    background-color: rgba(239, 230, 249, 0.851);
+}
+.base{
+    width: 1025px;
+    height: 490px;
+    
+    position: relative;
+    top: 13rem;
+}
+.ini{
+    font-size: 3rem;
+    padding: 33px;
+}
+.defi{
+    font-size: 1.5rem;
+    padding: 30px;
+    position: relative;
+    top: -4.5rem;
+}
+.eje{
+    font-size: 1.4rem;
+    padding: 28px;
+    position: relative;
+    top: -5.5rem;
+}
+.bt{
+    width: 160px;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 1rem;
+    position: relative;
+    
+    left: -41rem;
+}
+.dt{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+}
+.bici{
+    width: 40rem;
+    height: 40rem;
+    position: relative;
+    top: -40rem;
+    left: 47rem;
+}
+
+
+.cuamora2{
+    width: 1438px;
+    height: 625px;
+    background-color: rgb(181, 125, 234);
+}
+.cuaesque{
+    width: 1438px;
+    height: 1100px;
+    border: 1px solid black;
+
+}
+.cuamora3{
+    width: 1438px;
+    height: 300px;
+    background-color: rgb(181, 125, 234);
+}
+.cuablan1{
+    width: 1438px;
+    height: 600px;
+    border: 1px solid black;
+}
+.cuagris{
+    width: 1438px;
+    height: 500px;
+    border: 1px solid black;
+    background-color:  rgb(227, 223, 223);
+}
+.cuablan2{
+    width: 1438px;
+    height: 500px;
+    border: 1px solid black;
+}
+.cuablan3{
+    width: 1438px;
+    height: 250px;
+    border: 1px solid black;
+}
+.cuamora4{
+    width: 1438px;
+    height: 450px;
+    border: 1px solid black;
+    background-color: rgb(145, 45, 238);
+}
+.cuafinal{
+    width: 1438px;
+    height: 800px;
+    border: 1px solid black;
+}
